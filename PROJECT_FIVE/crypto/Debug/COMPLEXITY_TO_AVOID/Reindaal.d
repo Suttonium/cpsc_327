@@ -1,0 +1,4 @@
+COMPLEXITY_TO_AVOID/Reindaal.o: ../COMPLEXITY_TO_AVOID/Reindaal.cpp \
+ ../COMPLEXITY_TO_AVOID/Reindaal.h
+
+../COMPLEXITY_TO_AVOID/Reindaal.h:
